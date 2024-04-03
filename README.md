@@ -1,2 +1,2 @@
 # FunitureStoreHCI
-FunitureStoreHCI- Final Year Group Project
+FunitureStore HCI- Final Year Group Project
